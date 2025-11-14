@@ -1,0 +1,15 @@
+Имя: {name} {second_name} 
+Профессия: {job}
+Родной город: {town}
+
+Характеристики:
+Сила: {strength}
+Ловкость: {agility}
+Выносливость: {endurance}
+Интеллект: {intelligence}
+Удача: {luck}
+
+Навыки:
+{skill1}
+{skill2}
+{skill3}
